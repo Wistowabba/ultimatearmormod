@@ -1,3 +1,15 @@
+.gradle
+.settings
+bin/*
+build/*
+eclipse/*
+gradle/*
+.project
+.classpath
+build.gradle
+CREDITS-fml
+gradlew*
+
 *.class
 
 # Mobile Tools for Java (J2ME)

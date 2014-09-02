@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ultimatearmormod",
+  "name": "Ultimate Armor Mod",
+  "description": "Adds ultimate-class armor to Minecraft 1.7.10",
+  "version": "0.0.1,
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["MineDex7","virtualolympus"],
+  "credits": "Forge Community, pvanhouten for the inspiration",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
