@@ -1,5 +1,6 @@
 package com.virtualolympus.ultimate.armor;
 
+import com.virtualolympus.ultimate.armor.items.ObsidianBoots;
 import com.virtualolympus.ultimate.armor.items.ObsidianHelmet;
 import com.virtualolympus.ultimate.armor.items.ObsidianPlate;
 
@@ -27,6 +28,7 @@ public class UltimateArmorMod
 		// Add the plate registration here...
 		ObsidianPlate.RegisterItem();
 		
+		ObsidianBoots.RegisterItem();
 	}
 	
 }
